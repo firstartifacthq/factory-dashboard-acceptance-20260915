@@ -1,0 +1,6 @@
+{
+  "name": "bootstrap",
+  "engineVersion": "v0.21.8",
+  "sdk": "typescript",
+  "source": ".dagger"
+}
