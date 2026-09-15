@@ -1,0 +1,3 @@
+greeting-troubleshooting:
+  prompt: >-
+    Propose a short docs/troubleshooting.md note for the greeting CLI, explaining the Node 22 requirement and why importing greeting.mjs is silent. Preserve the current greeting behavior and existing files. Stage the NLSpec and scenarios for exact review before execution; do not start work without the required approval.
